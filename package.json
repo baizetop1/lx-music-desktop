@@ -196,7 +196,7 @@
     "tunnel": "^0.0.6",
     "utf-8-validate": "^6.0.4",
     "vue": "~3.3.13",
-    "vue-router": "^4.4.3",
+    "vue-router": "^4.4.5",
     "ws": "^8.18.0"
   },
   "overrides": {
